@@ -20,7 +20,7 @@ git clone https://github.com/CS4248-Team46/CS4248_Group_46_project.git
 Change into the repository's directory:
 
 ```
-cd CS4248_Group_46
+cd CS4248_Group_46_project
 ```
 
 Make sure your local repository is up to date with the origin:
